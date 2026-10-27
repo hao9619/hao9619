@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm an undergraduate student interested in AI security and
 
 I also like building little things that catch my interest—sometimes useful, sometimes just for fun.
 
-### 🐍 我的贡献记录
+### 🐍 My contribution graph
 
 <picture>
   <source
