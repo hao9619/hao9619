@@ -1,6 +1,17 @@
-## Hi there 👋
+<img align="right" src="https://github.com/hao9619.png" width="96" alt="Hao's avatar" />
 
+# Hi there, I'm Hao 👋
 
+Welcome to my GitHub! I'm an undergraduate student interested in AI security and making AI models more efficient.
+
+### What I'm exploring
+
+- 🔐 Federated learning
+- 🧩 Knowledge distillation
+- 🛡️ Backdoor attacks and defenses
+- ⚡ Performance optimization for large language models
+
+I also like building little things that catch my interest—sometimes useful, sometimes just for fun.
 
 ### 🐍 我的贡献记录
 
